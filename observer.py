@@ -1,3 +1,4 @@
+"""New"""
 class BusinessCustomer:
 
 	def __init__(self, acc_id, money_owed):
