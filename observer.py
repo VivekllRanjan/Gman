@@ -1,4 +1,5 @@
 """New"""
+"""No more updates"""
 class BusinessCustomer:
 
 	def __init__(self, acc_id, money_owed):
